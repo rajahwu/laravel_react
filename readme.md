@@ -1,7 +1,9 @@
 # Laravel React
 
 [laravel docs inertia](https://laravel.com/docs/11.x/frontend#inertia)
+
 [inertia js](https://inertiajs.com/)
+
 [inertia laravel react demo](https://github.com/Landish/pingcrm-react)
 
 ## [installation](https://bootcamp.laravel.com/inertia/installation)
