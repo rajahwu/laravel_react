@@ -57,9 +57,26 @@ Run migrations and start server
     php artisan serve
 ```
 
-View site at [http://127.0.0.1:8000/]
+View site at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
 ![laravel installation home page](./assets/images/laravel-installation.png)
+
+## User Authentications with Breeze
+
+```bash
+    composer require laravel/breeze --dev
+ 
+    node --version # use node version 18+
+
+    php artisan breeze:install react
+
+    npm run dev
+```
+
+Visit [http://127.0.0.1:8000/register](http://127.0.0.1:8000/register)
+Register a new user
+
+[breeze registration page](./assets/images/breeze-registration.png)
 
 ## crud
 
