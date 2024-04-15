@@ -76,7 +76,7 @@ View site at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 Visit [http://127.0.0.1:8000/register](http://127.0.0.1:8000/register)
 Register a new user
 
-[breeze registration page](./assets/images/breeze-registration.png)
+![breeze registration page](./assets/images/breeze-registration.png)
 
 ## crud
 
