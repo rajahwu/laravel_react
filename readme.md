@@ -125,8 +125,7 @@ Options:
 
 ```bash
     php artisan make:model -mrc Chirp
-
-    # OUTPUT
+   # OUTPUT
    INFO  Model [app/Models/Chirp.php] created successfully.
    INFO  Migration [database/migrations/2024_04_15_021251_create_chirps_table.php] created successfully.
    INFO  Controller [app/Http/Controllers/ChirpController.php] created successfully.
